@@ -29,7 +29,7 @@ This started an SSH connection to the OverTheWire server.
 
 ### Screenshot – SSH command
 
-<!-- Insert terminal screenshot here -->
+![image alt](https://github.com/cpaul253/cybersecurity-portfolio/blob/a08ce4695e861b1403f2f72f6ba6d92c434777de/level-00-ssh.png)
 
 ## Step 3 – Authenticate
 
