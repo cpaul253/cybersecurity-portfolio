@@ -39,7 +39,8 @@ I entered the initial password provided in the Bandit instructions. Once authent
 
 ### Screenshot – Successful connection
 
-<!-- Insert terminal screenshot here -->
+<img width="679" height="992" alt="level-00-connection" src="https://github.com/user-attachments/assets/8eb8fc46-1434-4bd5-9c3c-0b0f47354998" />
+
 
 ## What I Learned
 
